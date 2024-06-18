@@ -7,7 +7,6 @@ CocktailBook is a web application designed to help users explore and create thei
 CocktailBook will consist of several components, each serving a specific purpose within the application. These components will be thoroughly tested to ensure proper functionality and adherence to design specifications.
 
 ## Components:
-
 1.Header: The title of the page.
 2.CocktailCard: Component to display individual cocktail cards with basic information.
 3.SearchBar: Component for users to search for cocktails by name or ingredients.
