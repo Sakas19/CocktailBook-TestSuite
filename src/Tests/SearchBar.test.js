@@ -7,6 +7,7 @@ test("The title is rendered", () => {
     expect(heading).toBeInTheDocument();
 })
 
+
 test('should update input value when typed into', () => {
   render(<SearchBar />);
   const inputElement = screen.getByPlaceholderText('Search for a cocktail');
